@@ -76,7 +76,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("### ℹ️ About")
     st.markdown("""
-    This tool uses Google's Gemini API to compare policy documents against 
+    This tool is used to compare policy documents against 
     Standard Operating Procedures (SOPs) and generate detailed compliance reports.
     """)
 
